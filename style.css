@@ -43,3 +43,9 @@ padding: 30px 0;
 .produto-imagem{
     width: 120px;
 }
+.imagem-icone{ 
+    width: 24px;
+}
+.produtos-div{
+    text-align: center;
+}
