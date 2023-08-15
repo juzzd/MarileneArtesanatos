@@ -47,3 +47,19 @@ width: 35%;
 .produtos-div{
     text-align: center;
 }
+.produto-titulo{
+    text-align: center;
+    padding: 50px 0;
+}
+.produtos-todos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
+.rodape{
+    background-color: #D1936D;
+    text-align: center;
+}
+.imagem-rodape{
+    height: 60px;
+    padding: 12px 0;
+}
